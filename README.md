@@ -1,7 +1,18 @@
 # CS499-ePortfolio
 
+# Professional Self-Assessment
 
+As a senior at Southern New Hampshire University, my time in the Computer Science department has been transformative, providing me with the skills, knowledge, and experiences required to flourish in the world of computing. Completing my curriculum and establishing my ePortfolio has allowed me to highlight my skills, shape my professional objectives and values, and prepare myself to join the industry as a highly marketable individual in the field of computer science.
 
+Throughout my education, I have improved my teamwork skills, communicated successfully with stakeholders, and applied fundamental ideas in data structures and algorithms. For example, in my CS360 course, I collaborated with my colleagues to design and construct a full-stack mobile application using Java. This experience not only honed my technical abilities, but it also showed me the value of good communication and teamwork in meeting project objectives.
+
+Furthermore, my education in software engineering and databases has provided me with the knowledge and abilities required to build and construct sophisticated software applications. For example, in my CS340 course, I worked on a web application dashboard for an animal shelter, using my expertise of Python, Flask, and MongoDB to develop and deploy a user-friendly dashboard that improved data processing efficiency.
+
+Furthermore, my curriculum has concentrated on security, and I've learnt the necessity of protecting software systems from vulnerabilities and attacks. I've proved my abilities to increase software security and performance through projects such as adding validation and binary search for bid ID retrieval to a C++ program.
+
+In summary, my artifacts, which include the Java-based mobile application, the C++ binary search tree program, and the online application dashboard, demonstrate my whole spectrum of computer science skills and abilities. They emphasize my experience in software design and engineering, my knowledge of data structures and algorithms, and my dedication to software security and performance.
+
+As I prepare to join the industry, I am certain that my experiences at Southern New Hampshire University have equipped me to face the challenges of the computer science sector and contribute meaningfully to any firm. I am delighted about the prospects that await me, and I look forward to using my talents and experience to address hard issues in computer science.
 
 
 # artifact 2 
