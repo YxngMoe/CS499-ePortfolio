@@ -14,6 +14,9 @@ In summary, my artifacts, which include the Java-based mobile application, the C
 
 As I prepare to join the industry, I am certain that my experiences at Southern New Hampshire University have equipped me to face the challenges of the computer science sector and contribute meaningfully to any firm. I am delighted about the prospects that await me, and I look forward to using my talents and experience to address hard issues in computer science.
 
+The Computer Science curriculum was crucial in my career development, equipping me to make a significant contribution to the area. As I near the end of my voyage, I am reminded of a mountain climber approaching the top, drawing on my motivation and focus. Creating my ePortfolio has been a huge accomplishment, demonstrating my capacity to apply creative methodologies. For example, I've developed functionality for importing CSV data files into MongoDB using Python's PyMongo driver, the Dash framework, and Python source code, showcasing my ability to give value through computer solutions. In addition, my ePortfolio demonstrates my competence in creating and assessing computer solutions utilizing algorithmic principles and industry standards, with a focus on security throughout the development process. Looking ahead, I am excited about expanding.
+
+
 # artifact 1 
 Milestone 2 - Software Design/Engineering (artifact 1)
 
