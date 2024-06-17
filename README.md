@@ -18,17 +18,17 @@ The Computer Science curriculum was crucial in my career development, equipping 
 
 
 # artifact 1 
-Milestone 2 - Software Design/Engineering (artifact 1)
+Milestone 2 - Software Design/Engineering (Artifact 1)
 
-The selected artifact is a Java-based mobile application created as part of the CS360 course around a semester ago. This course focused on developing a full-stack mobile application using simple methods to create a fully working application.
+The selected artifact is a React-based web application that I enhanced as part of the CS499 course earlier this year. This course focused on developing a sophisticated web application using React, with an emphasis on incorporating comprehensive system design principles and enhancing the application's overall functionality.
 
-This artifact's placement in my ePortfolio is justified by its application to software design and engineering. It demonstrates my expertise in full-stack application development, namely Java programming and mobile development. The artifact was enhanced by including validation and small changes to increase usability, particularly in the backend functionality.
+This artifact's placement in my ePortfolio is justified by its relevance to software design and engineering. It demonstrates my expertise in web application development, particularly in using React for front-end development and integrating complex components. The artifact was enhanced by incorporating extensive course resources and making significant improvements to the system design and user interface.
 
-With this update, I hoped to achieve the course objectives outlined in Module One, which included showing expertise in software design and engineering concepts. The upgrades to the outcome-coverage plans included improvements to the application's usability and security features.
+With this update, I aimed to achieve the course objectives outlined in Module One, which included showcasing expertise in software design and engineering concepts. The upgrades included optimizing the component structure, improving state management, and enhancing the user interface to increase usability and performance.
 
-Reflecting on the process of improving the artifact, I gained important lessons about user validation and backend development. The hurdles were guaranteeing interoperability across several devices and striking a balance between introducing new functionality and keeping the application's interface simple. Overall, the experience gave a good understanding of software design and engineering fundamentals.
+Reflecting on the process of improving the artifact, I gained valuable insights into component integration and state management within React applications. The challenges involved ensuring efficient data handling and maintaining a user-friendly interface while introducing new functionalities. Overall, the experience provided a deeper understanding of modern web development practices and software design principles.
 
-All changes were made in MainActivity.Java file because thats where the validation enhancements needed to be made and for the design to better and more robust.
+All changes were made in the core React components and state management logic, as these were the areas that required enhancement to make the design more robust and the application more intuitive and responsive.
 
 # artifact 2 
 cs260-artifact-2
