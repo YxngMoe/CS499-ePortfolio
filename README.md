@@ -10,7 +10,7 @@ Furthermore, my education in software engineering and databases has provided me 
 
 Furthermore, my curriculum has concentrated on security, and I've learnt the necessity of protecting software systems from vulnerabilities and attacks. I've proved my abilities to increase software security and performance through projects such as adding validation and binary search for bid ID retrieval to a C++ program.
 
-In summary, my artifacts, which include the Java-based mobile application, the C++ binary search tree program, and the online application dashboard, demonstrate my whole spectrum of computer science skills and abilities. They emphasize my experience in software design and engineering, my knowledge of data structures and algorithms, and my dedication to software security and performance.
+In summary, my artifacts, which include the React-based mobile application, the C++ binary search tree program, and the online application dashboard, demonstrate my whole spectrum of computer science skills and abilities. They emphasize my experience in software design and engineering, my knowledge of data structures and algorithms, and my dedication to software security and performance.
 
 As I prepare to join the industry, I am certain that my experiences at Southern New Hampshire University have equipped me to face the challenges of the computer science sector and contribute meaningfully to any firm. I am delighted about the prospects that await me, and I look forward to using my talents and experience to address hard issues in computer science.
 
